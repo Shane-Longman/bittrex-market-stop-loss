@@ -18,7 +18,7 @@ Usage
 
 To use this script you need to first:
 
-1. download ``market-sl.py`` script to your computer.
+1. download ``market-sl.py`` script and ``requirements.txt`` to your computer.
 2. install required dependencies by issuing: ``pip install -r requirements.txt``
 
 To see what parameters ``market-sl.py`` accepts simply issue:
@@ -40,9 +40,16 @@ Once placed, Market Stop Loss order will be visible in your open orders list.
 .. image:: images/active-market-stop-loss.png
   :alt: Active market stop loss order listed in Bittrex's web app
 
-Donate
-======
+Tip/Donate
+==========
 
-If you like this script and find it useful do not hesitate to donate:
+If you like this script and find it useful do not hesitate to tip/donate:
 
-LTC: ``ltc1qvamejqpzphzxxnssc9uvqhk3zs0tujyrzs52eu``
+Litecoin (LTC): ``ltc1qvamejqpzphzxxnssc9uvqhk3zs0tujyrzs52eu``
+
+Tezos (XTZ): ``tz1KpJWhAnctbAUJQxHNsK24YBKHowG8Pm85``
+
+Dash (DASH): ``Xk3QLzD7PSbwf3Wze75HUxqrgC72fktWMP``
+
+Ada (ADA): ``addr1v9z3qf8spp36lpkf9s0na95st40dtgwdqk903rj60ph9lgq2h8v4d``
+
